@@ -238,4 +238,4 @@ if __name__ == "__main__":
     except Exception as e:
         logging.error(f"Sample inference failed: {e}")
 
-    logging.info("Training complete. Check the 'runs' directory for outputs.")
+    logging.info("Training complete. rn storing in runs folder")
