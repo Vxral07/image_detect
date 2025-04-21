@@ -1,0 +1,22 @@
+fastapi
+uvicorn
+python-multipart
+ultralytics
+paddleocr
+pyzbar
+opencv-python
+numpy
+Pillow
+torch
+
+
+# fastapi==0.95.2
+# uvicorn==0.23.2
+# python-multipart==0.0.6
+# ultralytics==8.0.43
+# paddleocr==2.6.1
+# pyzbar==0.1.8
+# opencv-python==4.8.0.74
+# numpy==1.25.1
+# Pillow==10.1.0
+# torch==2.0.1

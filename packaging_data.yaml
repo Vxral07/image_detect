@@ -1,0 +1,9 @@
+train: /Users/allenpereira/Desktop/d33ewd 2/datasets/images/train
+val: /Users/allenpereira/Desktop/d33ewd 2/datasets/images/val
+names:
+  0: barcode
+  1: brand
+  2: price
+  3: description
+  4: product_name
+
