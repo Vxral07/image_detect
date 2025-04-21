@@ -72,6 +72,8 @@ requirements.txt — Python dependencies for easy setup.
 📐 API Endpoints
 
 POST /predict/
+http://localhost:8000/predict/
+
 
 Parameters (multipart/form-data):
 
